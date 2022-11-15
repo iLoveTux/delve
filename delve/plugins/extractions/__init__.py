@@ -1,0 +1,1 @@
+from .syslog import syslog
